@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "steep-art-c07c",
+  "compatibility_date": "2026-05-09",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "savitha-site"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
